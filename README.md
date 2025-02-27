@@ -1,5 +1,23 @@
 # Welcome to your Expo app 👋
 
+# In Order to run this application you'll need to setup all this environment variable by creating a .env file in the root directory
+
+# EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=
+
+# DATABASE_URL= this is for mongodb only
+
+# EXPO_PUBLIC_SERVER_URL=https://uber.com/
+
+# EXPO_PUBLIC_GEOAPIFY_API_KEY=
+
+# EXPO_PUBLIC_GOOGLE_API_KEY=
+
+# EXPO_PUBLIC_STRIPE_PUBLISHABLE_KEY=
+
+# STRIPE_SECRET_KEY=
+
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
